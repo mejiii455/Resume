@@ -1,62 +1,6 @@
 # Resume <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            background: white;
-            padding: 40px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        header {
-            text-align: center;
-            border-bottom: 2px solid #333;
-            padding-bottom: 20px;
-            margin-bottom: 30px;
-        }
-        h1 {
-            margin-bottom: 10px;
-            font-size: 36px;
-        }
-        h2 {
-            color: #444;
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 8px;
-            margin-top: 30px;
-        }
-        p {
-            line-height: 1.6;
-        }
-        .contact {
-            color: #666;
-        }
-        .job, .education {
-            margin-bottom: 20px;
-        }
-        .job h3, .education h3 {
-            margin-bottom: 5px;
-        }
-        .date {
-            color: #777;
-            font-style: italic;
-        }
-        ul {
-            line-height: 1.8;
-        }
-    </style>
-</head>
-<body>
     <div class="container">
         <!-- Name & Address -->
         <header>
@@ -81,20 +25,13 @@
         <section>
             <h2>Work Experience</h2>
             <div class="job">
-                <h3>Part-Time Employee – ABC Company</h3>
                 <p class="date">June 2025 – August 2025</p>
                 <ul>
                     <li>Props Team Member – Thank You Party 2026.</li>
                     <li>Event Staff – EVENT UTCC Open House</li>
                 </ul>
             </div>
-            <div class="job">
-                <h3>Intern – XYZ Organization</h3>
-                <p class="date">March 2025 – May 2025</p>
                 <ul>
-                    <li>Assisted staff with daily administrative tasks.</li>
-                    <li>Prepared documents and organized information.</li>
-                    <li>Learned about professional workplace practices.</li>
                 </ul>
             </div>
         </section>
