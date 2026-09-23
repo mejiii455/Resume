@@ -86,7 +86,6 @@
                 <ul>
                     <li>Props Team Member – Thank You Party 2026.</li>
                     <li>Event Staff – EVENT UTCC Open House</li>
-                    
                 </ul>
             </div>
             <div class="job">
