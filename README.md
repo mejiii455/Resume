@@ -24,7 +24,6 @@
         <!-- Work Experience -->
         <section>
             <h2>Work Experience</h2>
-        class="job">
                 <p class="date">June 2025 – August 2025</p>
                 <ul>
                     <li>Props Team Member – Thank You Party 2026.</li>
@@ -33,7 +32,6 @@
             </div>
                 <ul>
                 </ul>
-            </div>
         </section>
         <!-- Education -->
         <section>
