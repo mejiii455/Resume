@@ -1,4 +1,4 @@
-# Resume <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <div class="container">
@@ -24,7 +24,7 @@
         <!-- Work Experience -->
         <section>
             <h2>Work Experience</h2>
-            <div class="job">
+        class="job">
                 <p class="date">June 2025 – August 2025</p>
                 <ul>
                     <li>Props Team Member – Thank You Party 2026.</li>
@@ -63,5 +63,4 @@
             </ul>
         </section>
     </div>
-</body>
-</html>
+
